@@ -12,5 +12,9 @@
     <p>Set of declarations enclosed by curly braces {}</p>
     <h4>Rule or Rule Set</h4>
     <p>Declaration blocks and their selectors</p>
+    <hr />
+    <h3>Bracket Names</3>
+    <p>angled bracket </p>
+    <p> / - slash </p>
   </div>
 </template>
