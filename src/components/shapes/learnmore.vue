@@ -28,3 +28,16 @@
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/001OLmwourI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </template>
+
+https://fronteersconf.org/speakers/
+https://codepen.io/alvaromontoro/full/ZEmdjpJ
+https://www.youtube.com/watch?v=MPodL1_JnLc
+https://codepen.io/alvaromontoro/pen/jOvvzbm
+https://codepen.io/miocene/pen/WNYYaXJ
+https://codepen.io/stoumann/pen/LYXjqNZ
+https://codepen.io/josetxu/pen/jOQegyB
+https://codepen.io/fractalkitty/pen/jOQGeOx
+https://codepen.io/ricardoolivaalonso/pen/QWJxYXE
+https://codepen.io/ceramicSoda/pen/NWEgJbG
+https://codepen.io/t_afif/pen/YzRdWXQ
+https://media.licdn.com/dms/image/D4D22AQH3ymzV8OWzPg/feedshare-shrink_800/0/1691607430728?e=1695254400&v=beta&t=bJIh-Jd7yLWvrGTkhlRhI1eVFm-in-jNqMRehWcgQfI
