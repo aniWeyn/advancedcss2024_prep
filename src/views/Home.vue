@@ -671,4 +671,9 @@ h2 {
 .groupwork {
   background-color: #2c3e501a;
 }
+
+img{
+  width: 100%;
+  max-width: 100%;
+}
 </style>

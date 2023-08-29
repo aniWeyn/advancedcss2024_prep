@@ -4,7 +4,7 @@
     <ul>
       <li>
         <strong>rem</strong> good for font-sizing (adapts to user system and
-        their browsers), paddings
+        their browsers), paddings -- ROOT RELATIVE ELEMENT, 1rem == 16px (usually)
       </li>
       <li><strong>em</strong>good for paddings</li>
       <li><strong>%</strong> good for width</li>

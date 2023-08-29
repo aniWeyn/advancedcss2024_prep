@@ -13,7 +13,7 @@
     <h4>Rule or Rule Set</h4>
     <p>Declaration blocks and their selectors</p>
     <hr />
-    <h3>Bracket Names</3>
+    <h3>Bracket Names</h3>
     <p>angled bracket </p>
     <p> / - slash </p>
   </div>
