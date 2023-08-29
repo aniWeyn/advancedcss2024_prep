@@ -16,6 +16,6 @@
         <li>Can be updated via JavaScript</li>
       </ul>
     </div>
-    <div>https://comicss.art/?id=21</div>
+    <div>https://comicss.art/comics/21/animation-train.html/div>
   </div>
 </template>
