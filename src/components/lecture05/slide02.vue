@@ -16,5 +16,6 @@
         <li>Can be updated via JavaScript</li>
       </ul>
     </div>
+    <div>https://comicss.art/?id=21</div>
   </div>
 </template>
