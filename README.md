@@ -2,6 +2,8 @@
 
 Advanced CSS course project for NTNU
 
+`#0969DA`
+
 ## Project setup
 ```
 npm install
